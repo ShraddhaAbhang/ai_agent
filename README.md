@@ -53,7 +53,6 @@ To run an agent, use the following command:
 python agent.py
 ```
 
-
 ### Customization
 To modify the behavior of an agent, you can:
 - Edit the agent's configuration files.
@@ -74,5 +73,3 @@ We welcome contributions! Feel free to fork the repository, make improvements, a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
